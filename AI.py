@@ -124,6 +124,6 @@ while'bye':
                 speak('searching')
 
         except:
-            ''
+            'print("hello)'
             
                                 
