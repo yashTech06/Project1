@@ -9,7 +9,7 @@ def speak(audio):
     engine.say(audio)
     engine.runAndWait()
 
-
+speak("gelsappa")
 speak('hello sir')
 print('hello sir,this is your assistant , welcomes you')
 print('to search something from google just say ')
